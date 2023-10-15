@@ -1,0 +1,12 @@
+# bootstrap�f�B���N�g���ȉ������O
+bootstrap/
+
+# img�f�B���N�g���ȉ������O
+img/
+
+# �S�[�X�g�t�@�C�������O
+.DS_Stone
+
+*.jpg
+*.jpeg
+*.png
